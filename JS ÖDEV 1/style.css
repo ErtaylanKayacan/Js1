@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(70, 67, 67);
+    color: orange;
+    margin: 0px;
+    padding: 0%;
+}
+.yazı{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 0px;
+    padding-top: -40px;
+    
+}
